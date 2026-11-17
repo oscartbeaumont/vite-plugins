@@ -58,7 +58,7 @@
   "devDependencies": {
     "@playwright/test": "^1.37.1",
     "glob": "^10.3.10",
-    "hono": "^3.11.7",
+    "hono": "^4.13.16",
     "playwright": "^1.39.0",
     "publint": "^0.2.5",
     "rimraf": "^5.0.1",

@@ -41,7 +41,7 @@
   "homepage": "https://github.com/honojs/vite-plugins",
   "devDependencies": {
     "glob": "^10.3.10",
-    "hono": "^3.11.7",
+    "hono": "^4.13.16",
     "publint": "^0.1.12",
     "rimraf": "^5.0.1",
     "tsup": "^7.2.0",
